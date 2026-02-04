@@ -1,5 +1,5 @@
 ## Hi there, I'm Abdulai Jalaldin 👋
-AI Engineer |Building Intelligent Agents 🤖
+AI Engineer | Building Intelligent Agents 🤖
 
 I'm an AI Engineer passionate about agentic AI and LLMs. I build AI systems that don't just respond,they think, plan, and act autonomously.
 
