@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there, I'm Abdulai Jalaldin 👋
+AI Engineer|Building Intelligent Agents 🤖
 
-<!--
-**AbdulaiJalaldin/AbdulaiJalaldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer passionate about agentic AI and LLMs. I build AI systems that don't just respond,they think, plan, and act autonomously.
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📢 Ad Intelligence Agent: Building an AI agent that optimizes Facebook & Google Ads positioning and generates high-converting ad copy
+🧠 Currently deep-diving into multi-agent workflows and proactive agents.
+
+💻 Tech Stack
+languages = ["Python"]
+frameworks = ["LangGraph", "LangChain"]
+focus_areas = ["Agentic AI Systems", "LLM Applications", "Multi-Agent Workflows"]
+
+🌱 Currently Learning
+
+Multi-agent orchestration patterns,
+Proactive agent architectures,
+Advanced LLM reasoning technique
+
+🤝 Let's Collaborate!
+I'm actively looking for:
+
+🔗 Networking with AI engineers and researchers
+
+💼 Internship and job opportunities in AI/ML
+
+🛠️ Collaborators on agentic AI and LLM projects
+
+🌍 Open source contributions in the AI agent ecosystem
+
+⚡ Fun Facts
+
+🎮 Gamer at heart
+
+⚽ Football lover
+
+✈️ Dream traveler
+
+If you're building something cool with AI agents or LLMs, let's connect!
+
